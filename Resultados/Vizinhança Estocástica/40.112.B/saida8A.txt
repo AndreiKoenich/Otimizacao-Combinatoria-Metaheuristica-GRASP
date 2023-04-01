@@ -1,0 +1,1374 @@
+
+Quantidade de inicios aleatorios:
+10000
+
+Quantidade de construcoes em cada inicio:
+200
+
+Quantidade de participantes do torneio:
+10
+
+Valor da seed:
+2567
+
+Valor da solucao inicial:
+3961.00
+
+Maior soma de distancias minimas encontrada:
+4418.00
+
+Descricao completa da melhor solucao encontrada:
+Vertice 0 conectado com vertice 293, com distancia 8.00
+Vertice 1 conectado com vertice 90, com distancia 12.00
+Vertice 2 conectado com vertice 99, com distancia 4.00
+Vertice 3 conectado com vertice 188, com distancia 9.00
+Vertice 4 conectado com vertice 369, com distancia 17.00
+Vertice 5 conectado com vertice 111, com distancia 9.00
+Vertice 6 conectado com vertice 297, com distancia 5.00
+Vertice 7 conectado com vertice 441, com distancia 7.00
+Vertice 8 conectado com vertice 198, com distancia 13.00
+Vertice 9 conectado com vertice 23, com distancia 12.00
+Vertice 10 conectado com vertice 282, com distancia 8.00
+Vertice 11 conectado com vertice 293, com distancia 13.00
+Vertice 12 conectado com vertice 43, com distancia 8.00
+Vertice 13 conectado com vertice 404, com distancia 7.00
+Vertice 14 conectado com vertice 168, com distancia 9.00
+Vertice 15 conectado com vertice 316, com distancia 10.00
+Vertice 16 conectado com vertice 369, com distancia 10.00
+Vertice 17 conectado com vertice 62, com distancia 9.00
+Vertice 18 conectado com vertice 92, com distancia 9.00
+Vertice 19 conectado com vertice 86, com distancia 10.00
+Vertice 20 conectado com vertice 238, com distancia 9.00
+Vertice 21 conectado com vertice 316, com distancia 6.00
+Vertice 22 conectado com vertice 293, com distancia 8.00
+Vertice 23 conectado com vertice 78, com distancia 5.00
+Vertice 24 conectado com vertice 161, com distancia 10.00
+Vertice 25 conectado com vertice 23, com distancia 9.00
+Vertice 26 conectado com vertice 109, com distancia 9.00
+Vertice 27 conectado com vertice 265, com distancia 10.00
+Vertice 28 conectado com vertice 369, com distancia 12.00
+Vertice 29 conectado com vertice 198, com distancia 6.00
+Vertice 30 conectado com vertice 161, com distancia 9.00
+Vertice 31 conectado com vertice 367, com distancia 7.00
+Vertice 32 conectado com vertice 49, com distancia 15.00
+Vertice 33 conectado com vertice 171, com distancia 13.00
+Vertice 34 conectado com vertice 99, com distancia 14.00
+Vertice 35 conectado com vertice 22, com distancia 3.00
+Vertice 36 conectado com vertice 97, com distancia 10.00
+Vertice 37 conectado com vertice 231, com distancia 10.00
+Vertice 38 conectado com vertice 415, com distancia 2.00
+Vertice 39 conectado com vertice 53, com distancia 12.00
+Vertice 40 conectado com vertice 22, com distancia 18.00
+Vertice 41 conectado com vertice 172, com distancia 3.00
+Vertice 42 conectado com vertice 143, com distancia 4.00
+Vertice 43 conectado com vertice 198, com distancia 6.00
+Vertice 44 conectado com vertice 417, com distancia 9.00
+Vertice 45 conectado com vertice 248, com distancia 9.00
+Vertice 46 conectado com vertice 404, com distancia 7.00
+Vertice 47 conectado com vertice 172, com distancia 19.00
+Vertice 48 conectado com vertice 104, com distancia 20.00
+Vertice 49 conectado com vertice 262, com distancia 13.00
+Vertice 50 conectado com vertice 53, com distancia 10.00
+Vertice 51 conectado com vertice 293, com distancia 9.00
+Vertice 52 conectado com vertice 174, com distancia 8.00
+Vertice 53 conectado com vertice 404, com distancia 12.00
+Vertice 54 conectado com vertice 230, com distancia 1.00
+Vertice 55 conectado com vertice 171, com distancia 17.00
+Vertice 56 conectado com vertice 49, com distancia 6.00
+Vertice 57 conectado com vertice 265, com distancia 3.00
+Vertice 58 conectado com vertice 380, com distancia 14.00
+Vertice 59 conectado com vertice 53, com distancia 10.00
+Vertice 60 conectado com vertice 408, com distancia 3.00
+Vertice 61 conectado com vertice 63, com distancia 10.00
+Vertice 62 conectado com vertice 47, com distancia 15.00
+Vertice 63 conectado com vertice 198, com distancia 7.00
+Vertice 64 conectado com vertice 23, com distancia 17.00
+Vertice 65 conectado com vertice 357, com distancia 9.00
+Vertice 66 conectado com vertice 53, com distancia 12.00
+Vertice 67 conectado com vertice 249, com distancia 10.00
+Vertice 68 conectado com vertice 388, com distancia 9.00
+Vertice 69 conectado com vertice 291, com distancia 5.00
+Vertice 70 conectado com vertice 297, com distancia 14.00
+Vertice 71 conectado com vertice 231, com distancia 11.00
+Vertice 72 conectado com vertice 359, com distancia 7.00
+Vertice 73 conectado com vertice 385, com distancia 2.00
+Vertice 74 conectado com vertice 143, com distancia 8.00
+Vertice 75 conectado com vertice 373, com distancia 9.00
+Vertice 76 conectado com vertice 104, com distancia 14.00
+Vertice 77 conectado com vertice 62, com distancia 9.00
+Vertice 78 conectado com vertice 199, com distancia 13.00
+Vertice 79 conectado com vertice 105, com distancia 8.00
+Vertice 80 conectado com vertice 376, com distancia 8.00
+Vertice 81 conectado com vertice 369, com distancia 2.00
+Vertice 82 conectado com vertice 109, com distancia 2.00
+Vertice 83 conectado com vertice 248, com distancia 12.00
+Vertice 84 conectado com vertice 280, com distancia 6.00
+Vertice 85 conectado com vertice 376, com distancia 4.00
+Vertice 86 conectado com vertice 265, com distancia 8.00
+Vertice 87 conectado com vertice 199, com distancia 15.00
+Vertice 88 conectado com vertice 109, com distancia 16.00
+Vertice 89 conectado com vertice 417, com distancia 13.00
+Vertice 90 conectado com vertice 163, com distancia 17.00
+Vertice 91 conectado com vertice 293, com distancia 12.00
+Vertice 92 conectado com vertice 388, com distancia 8.00
+Vertice 93 conectado com vertice 231, com distancia 11.00
+Vertice 94 conectado com vertice 230, com distancia 16.00
+Vertice 95 conectado com vertice 293, com distancia 8.00
+Vertice 96 conectado com vertice 188, com distancia 10.00
+Vertice 97 conectado com vertice 334, com distancia 11.00
+Vertice 98 conectado com vertice 224, com distancia 3.00
+Vertice 99 conectado com vertice 62, com distancia 7.00
+Vertice 100 conectado com vertice 307, com distancia 10.00
+Vertice 101 conectado com vertice 224, com distancia 6.00
+Vertice 102 conectado com vertice 53, com distancia 3.00
+Vertice 103 conectado com vertice 230, com distancia 14.00
+Vertice 104 conectado com vertice 265, com distancia 8.00
+Vertice 105 conectado com vertice 230, com distancia 5.00
+Vertice 106 conectado com vertice 230, com distancia 9.00
+Vertice 107 conectado com vertice 273, com distancia 14.00
+Vertice 108 conectado com vertice 63, com distancia 12.00
+Vertice 109 conectado com vertice 372, com distancia 9.00
+Vertice 110 conectado com vertice 53, com distancia 17.00
+Vertice 111 conectado com vertice 224, com distancia 15.00
+Vertice 112 conectado com vertice 372, com distancia 11.00
+Vertice 113 conectado com vertice 90, com distancia 10.00
+Vertice 114 conectado com vertice 297, com distancia 6.00
+Vertice 115 conectado com vertice 174, com distancia 14.00
+Vertice 116 conectado com vertice 45, com distancia 10.00
+Vertice 117 conectado com vertice 105, com distancia 8.00
+Vertice 118 conectado com vertice 282, com distancia 4.00
+Vertice 119 conectado com vertice 273, com distancia 8.00
+Vertice 120 conectado com vertice 53, com distancia 9.00
+Vertice 121 conectado com vertice 18, com distancia 20.00
+Vertice 122 conectado com vertice 297, com distancia 5.00
+Vertice 123 conectado com vertice 48, com distancia 8.00
+Vertice 124 conectado com vertice 78, com distancia 12.00
+Vertice 125 conectado com vertice 198, com distancia 24.00
+Vertice 126 conectado com vertice 23, com distancia 18.00
+Vertice 127 conectado com vertice 279, com distancia 16.00
+Vertice 128 conectado com vertice 174, com distancia 2.00
+Vertice 129 conectado com vertice 198, com distancia 6.00
+Vertice 130 conectado com vertice 171, com distancia 11.00
+Vertice 131 conectado com vertice 357, com distancia 9.00
+Vertice 132 conectado com vertice 18, com distancia 8.00
+Vertice 133 conectado com vertice 143, com distancia 9.00
+Vertice 134 conectado com vertice 35, com distancia 11.00
+Vertice 135 conectado com vertice 119, com distancia 11.00
+Vertice 136 conectado com vertice 248, com distancia 8.00
+Vertice 137 conectado com vertice 35, com distancia 9.00
+Vertice 138 conectado com vertice 376, com distancia 9.00
+Vertice 139 conectado com vertice 282, com distancia 10.00
+Vertice 140 conectado com vertice 241, com distancia 4.00
+Vertice 141 conectado com vertice 23, com distancia 4.00
+Vertice 142 conectado com vertice 408, com distancia 6.00
+Vertice 143 conectado com vertice 297, com distancia 18.00
+Vertice 144 conectado com vertice 174, com distancia 6.00
+Vertice 145 conectado com vertice 158, com distancia 2.00
+Vertice 146 conectado com vertice 18, com distancia 14.00
+Vertice 147 conectado com vertice 280, com distancia 13.00
+Vertice 148 conectado com vertice 231, com distancia 10.00
+Vertice 149 conectado com vertice 22, com distancia 16.00
+Vertice 150 conectado com vertice 372, com distancia 12.00
+Vertice 151 conectado com vertice 172, com distancia 7.00
+Vertice 152 conectado com vertice 172, com distancia 13.00
+Vertice 153 conectado com vertice 293, com distancia 18.00
+Vertice 154 conectado com vertice 176, com distancia 12.00
+Vertice 155 conectado com vertice 404, com distancia 6.00
+Vertice 156 conectado com vertice 293, com distancia 6.00
+Vertice 157 conectado com vertice 230, com distancia 8.00
+Vertice 158 conectado com vertice 105, com distancia 12.00
+Vertice 159 conectado com vertice 230, com distancia 9.00
+Vertice 160 conectado com vertice 48, com distancia 10.00
+Vertice 161 conectado com vertice 48, com distancia 9.00
+Vertice 162 conectado com vertice 35, com distancia 12.00
+Vertice 163 conectado com vertice 441, com distancia 17.00
+Vertice 164 conectado com vertice 198, com distancia 1.00
+Vertice 165 conectado com vertice 23, com distancia 10.00
+Vertice 166 conectado com vertice 257, com distancia 11.00
+Vertice 167 conectado com vertice 105, com distancia 16.00
+Vertice 168 conectado com vertice 171, com distancia 9.00
+Vertice 169 conectado com vertice 297, com distancia 10.00
+Vertice 170 conectado com vertice 372, com distancia 10.00
+Vertice 171 conectado com vertice 357, com distancia 8.00
+Vertice 172 conectado com vertice 224, com distancia 7.00
+Vertice 173 conectado com vertice 334, com distancia 11.00
+Vertice 174 conectado com vertice 282, com distancia 12.00
+Vertice 175 conectado com vertice 388, com distancia 10.00
+Vertice 176 conectado com vertice 86, com distancia 6.00
+Vertice 177 conectado com vertice 376, com distancia 9.00
+Vertice 178 conectado com vertice 230, com distancia 11.00
+Vertice 179 conectado com vertice 248, com distancia 15.00
+Vertice 180 conectado com vertice 367, com distancia 16.00
+Vertice 181 conectado com vertice 265, com distancia 6.00
+Vertice 182 conectado com vertice 172, com distancia 14.00
+Vertice 183 conectado com vertice 198, com distancia 4.00
+Vertice 184 conectado com vertice 172, com distancia 18.00
+Vertice 185 conectado com vertice 238, com distancia 10.00
+Vertice 186 conectado com vertice 415, com distancia 9.00
+Vertice 187 conectado com vertice 238, com distancia 8.00
+Vertice 188 conectado com vertice 160, com distancia 7.00
+Vertice 189 conectado com vertice 279, com distancia 1.00
+Vertice 190 conectado com vertice 29, com distancia 13.00
+Vertice 191 conectado com vertice 76, com distancia 13.00
+Vertice 192 conectado com vertice 280, com distancia 7.00
+Vertice 193 conectado com vertice 90, com distancia 7.00
+Vertice 194 conectado com vertice 363, com distancia 8.00
+Vertice 195 conectado com vertice 172, com distancia 12.00
+Vertice 196 conectado com vertice 282, com distancia 16.00
+Vertice 197 conectado com vertice 112, com distancia 10.00
+Vertice 198 conectado com vertice 404, com distancia 7.00
+Vertice 199 conectado com vertice 441, com distancia 2.00
+Vertice 200 conectado com vertice 369, com distancia 7.00
+Vertice 201 conectado com vertice 273, com distancia 7.00
+Vertice 202 conectado com vertice 35, com distancia 13.00
+Vertice 203 conectado com vertice 78, com distancia 7.00
+Vertice 204 conectado com vertice 385, com distancia 9.00
+Vertice 205 conectado com vertice 408, com distancia 8.00
+Vertice 206 conectado com vertice 199, com distancia 9.00
+Vertice 207 conectado com vertice 415, com distancia 11.00
+Vertice 208 conectado com vertice 174, com distancia 17.00
+Vertice 209 conectado com vertice 119, com distancia 5.00
+Vertice 210 conectado com vertice 109, com distancia 16.00
+Vertice 211 conectado com vertice 297, com distancia 9.00
+Vertice 212 conectado com vertice 231, com distancia 13.00
+Vertice 213 conectado com vertice 396, com distancia 7.00
+Vertice 214 conectado com vertice 316, com distancia 6.00
+Vertice 215 conectado com vertice 279, com distancia 9.00
+Vertice 216 conectado com vertice 167, com distancia 10.00
+Vertice 217 conectado com vertice 109, com distancia 8.00
+Vertice 218 conectado com vertice 376, com distancia 7.00
+Vertice 219 conectado com vertice 433, com distancia 11.00
+Vertice 220 conectado com vertice 357, com distancia 19.00
+Vertice 221 conectado com vertice 282, com distancia 12.00
+Vertice 222 conectado com vertice 297, com distancia 1.00
+Vertice 223 conectado com vertice 316, com distancia 10.00
+Vertice 224 conectado com vertice 171, com distancia 7.00
+Vertice 225 conectado com vertice 112, com distancia 7.00
+Vertice 226 conectado com vertice 99, com distancia 17.00
+Vertice 227 conectado com vertice 257, com distancia 1.00
+Vertice 228 conectado com vertice 90, com distancia 11.00
+Vertice 229 conectado com vertice 63, com distancia 8.00
+Vertice 230 conectado com vertice 105, com distancia 8.00
+Vertice 231 conectado com vertice 172, com distancia 9.00
+Vertice 232 conectado com vertice 404, com distancia 5.00
+Vertice 233 conectado com vertice 198, com distancia 11.00
+Vertice 234 conectado com vertice 265, com distancia 17.00
+Vertice 235 conectado com vertice 334, com distancia 12.00
+Vertice 236 conectado com vertice 172, com distancia 1.00
+Vertice 237 conectado com vertice 63, com distancia 12.00
+Vertice 238 conectado com vertice 293, com distancia 33.00
+Vertice 239 conectado com vertice 171, com distancia 10.00
+Vertice 240 conectado com vertice 257, com distancia 4.00
+Vertice 241 conectado com vertice 230, com distancia 3.00
+Vertice 242 conectado com vertice 369, com distancia 10.00
+Vertice 243 conectado com vertice 171, com distancia 8.00
+Vertice 244 conectado com vertice 99, com distancia 29.00
+Vertice 245 conectado com vertice 198, com distancia 4.00
+Vertice 246 conectado com vertice 307, com distancia 14.00
+Vertice 247 conectado com vertice 90, com distancia 4.00
+Vertice 248 conectado com vertice 415, com distancia 1.00
+Vertice 249 conectado com vertice 367, com distancia 7.00
+Vertice 250 conectado com vertice 363, com distancia 6.00
+Vertice 251 conectado com vertice 174, com distancia 5.00
+Vertice 252 conectado com vertice 161, com distancia 9.00
+Vertice 253 conectado com vertice 230, com distancia 9.00
+Vertice 254 conectado com vertice 29, com distancia 6.00
+Vertice 255 conectado com vertice 198, com distancia 8.00
+Vertice 256 conectado com vertice 273, com distancia 10.00
+Vertice 257 conectado com vertice 322, com distancia 10.00
+Vertice 258 conectado com vertice 415, com distancia 14.00
+Vertice 259 conectado com vertice 297, com distancia 2.00
+Vertice 260 conectado com vertice 415, com distancia 10.00
+Vertice 261 conectado com vertice 376, com distancia 9.00
+Vertice 262 conectado com vertice 248, com distancia 11.00
+Vertice 263 conectado com vertice 104, com distancia 6.00
+Vertice 264 conectado com vertice 53, com distancia 14.00
+Vertice 265 conectado com vertice 334, com distancia 11.00
+Vertice 266 conectado com vertice 297, com distancia 2.00
+Vertice 267 conectado com vertice 417, com distancia 15.00
+Vertice 268 conectado com vertice 171, com distancia 8.00
+Vertice 269 conectado com vertice 140, com distancia 8.00
+Vertice 270 conectado com vertice 190, com distancia 10.00
+Vertice 271 conectado com vertice 199, com distancia 21.00
+Vertice 272 conectado com vertice 29, com distancia 13.00
+Vertice 273 conectado com vertice 262, com distancia 9.00
+Vertice 274 conectado com vertice 231, com distancia 12.00
+Vertice 275 conectado com vertice 172, com distancia 10.00
+Vertice 276 conectado com vertice 158, com distancia 8.00
+Vertice 277 conectado com vertice 231, com distancia 7.00
+Vertice 278 conectado com vertice 97, com distancia 5.00
+Vertice 279 conectado com vertice 29, com distancia 17.00
+Vertice 280 conectado com vertice 388, com distancia 10.00
+Vertice 281 conectado com vertice 109, com distancia 4.00
+Vertice 282 conectado com vertice 199, com distancia 6.00
+Vertice 283 conectado com vertice 118, com distancia 4.00
+Vertice 284 conectado com vertice 172, com distancia 8.00
+Vertice 285 conectado com vertice 109, com distancia 8.00
+Vertice 286 conectado com vertice 29, com distancia 9.00
+Vertice 287 conectado com vertice 199, com distancia 5.00
+Vertice 288 conectado com vertice 303, com distancia 13.00
+Vertice 289 conectado com vertice 303, com distancia 6.00
+Vertice 290 conectado com vertice 45, com distancia 20.00
+Vertice 291 conectado com vertice 118, com distancia 8.00
+Vertice 292 conectado com vertice 415, com distancia 2.00
+Vertice 293 conectado com vertice 334, com distancia 10.00
+Vertice 294 conectado com vertice 198, com distancia 8.00
+Vertice 295 conectado com vertice 334, com distancia 18.00
+Vertice 296 conectado com vertice 172, com distancia 5.00
+Vertice 297 conectado com vertice 230, com distancia 7.00
+Vertice 298 conectado com vertice 35, com distancia 9.00
+Vertice 299 conectado com vertice 373, com distancia 5.00
+Vertice 300 conectado com vertice 198, com distancia 8.00
+Vertice 301 conectado com vertice 97, com distancia 14.00
+Vertice 302 conectado com vertice 12, com distancia 5.00
+Vertice 303 conectado com vertice 21, com distancia 12.00
+Vertice 304 conectado com vertice 231, com distancia 17.00
+Vertice 305 conectado com vertice 417, com distancia 6.00
+Vertice 306 conectado com vertice 115, com distancia 11.00
+Vertice 307 conectado com vertice 298, com distancia 9.00
+Vertice 308 conectado com vertice 441, com distancia 13.00
+Vertice 309 conectado com vertice 248, com distancia 11.00
+Vertice 310 conectado com vertice 161, com distancia 3.00
+Vertice 311 conectado com vertice 29, com distancia 7.00
+Vertice 312 conectado com vertice 273, com distancia 12.00
+Vertice 313 conectado com vertice 357, com distancia 10.00
+Vertice 314 conectado com vertice 356, com distancia 9.00
+Vertice 315 conectado com vertice 273, com distancia 22.00
+Vertice 316 conectado com vertice 363, com distancia 16.00
+Vertice 317 conectado com vertice 140, com distancia 11.00
+Vertice 318 conectado com vertice 255, com distancia 11.00
+Vertice 319 conectado com vertice 241, com distancia 18.00
+Vertice 320 conectado com vertice 282, com distancia 15.00
+Vertice 321 conectado com vertice 23, com distancia 1.00
+Vertice 322 conectado com vertice 334, com distancia 14.00
+Vertice 323 conectado com vertice 44, com distancia 9.00
+Vertice 324 conectado com vertice 109, com distancia 13.00
+Vertice 325 conectado com vertice 43, com distancia 8.00
+Vertice 326 conectado com vertice 273, com distancia 5.00
+Vertice 327 conectado com vertice 231, com distancia 7.00
+Vertice 328 conectado com vertice 282, com distancia 8.00
+Vertice 329 conectado com vertice 417, com distancia 12.00
+Vertice 330 conectado com vertice 257, com distancia 11.00
+Vertice 331 conectado com vertice 441, com distancia 8.00
+Vertice 332 conectado com vertice 43, com distancia 14.00
+Vertice 333 conectado com vertice 53, com distancia 13.00
+Vertice 334 conectado com vertice 238, com distancia 8.00
+Vertice 335 conectado com vertice 369, com distancia 11.00
+Vertice 336 conectado com vertice 222, com distancia 5.00
+Vertice 337 conectado com vertice 369, com distancia 8.00
+Vertice 338 conectado com vertice 47, com distancia 5.00
+Vertice 339 conectado com vertice 119, com distancia 10.00
+Vertice 340 conectado com vertice 265, com distancia 11.00
+Vertice 341 conectado com vertice 241, com distancia 10.00
+Vertice 342 conectado com vertice 224, com distancia 9.00
+Vertice 343 conectado com vertice 231, com distancia 13.00
+Vertice 344 conectado com vertice 297, com distancia 18.00
+Vertice 345 conectado com vertice 404, com distancia 9.00
+Vertice 346 conectado com vertice 53, com distancia 15.00
+Vertice 347 conectado com vertice 415, com distancia 5.00
+Vertice 348 conectado com vertice 282, com distancia 13.00
+Vertice 349 conectado com vertice 322, com distancia 9.00
+Vertice 350 conectado com vertice 190, com distancia 9.00
+Vertice 351 conectado com vertice 417, com distancia 7.00
+Vertice 352 conectado com vertice 376, com distancia 7.00
+Vertice 353 conectado com vertice 388, com distancia 18.00
+Vertice 354 conectado com vertice 303, com distancia 7.00
+Vertice 355 conectado com vertice 45, com distancia 14.00
+Vertice 356 conectado com vertice 316, com distancia 9.00
+Vertice 357 conectado com vertice 190, com distancia 8.00
+Vertice 358 conectado com vertice 78, com distancia 14.00
+Vertice 359 conectado com vertice 105, com distancia 7.00
+Vertice 360 conectado com vertice 105, com distancia 7.00
+Vertice 361 conectado com vertice 199, com distancia 9.00
+Vertice 362 conectado com vertice 29, com distancia 19.00
+Vertice 363 conectado com vertice 408, com distancia 10.00
+Vertice 364 conectado com vertice 111, com distancia 12.00
+Vertice 365 conectado com vertice 38, com distancia 10.00
+Vertice 366 conectado com vertice 372, com distancia 6.00
+Vertice 367 conectado com vertice 265, com distancia 13.00
+Vertice 368 conectado com vertice 174, com distancia 16.00
+Vertice 369 conectado com vertice 63, com distancia 8.00
+Vertice 370 conectado com vertice 293, com distancia 15.00
+Vertice 371 conectado com vertice 293, com distancia 7.00
+Vertice 372 conectado com vertice 198, com distancia 15.00
+Vertice 373 conectado com vertice 251, com distancia 9.00
+Vertice 374 conectado com vertice 417, com distancia 7.00
+Vertice 375 conectado com vertice 388, com distancia 4.00
+Vertice 376 conectado com vertice 44, com distancia 7.00
+Vertice 377 conectado com vertice 367, com distancia 19.00
+Vertice 378 conectado com vertice 105, com distancia 9.00
+Vertice 379 conectado com vertice 48, com distancia 9.00
+Vertice 380 conectado com vertice 231, com distancia 11.00
+Vertice 381 conectado com vertice 357, com distancia 7.00
+Vertice 382 conectado com vertice 44, com distancia 24.00
+Vertice 383 conectado com vertice 303, com distancia 6.00
+Vertice 384 conectado com vertice 372, com distancia 5.00
+Vertice 385 conectado com vertice 297, com distancia 13.00
+Vertice 386 conectado com vertice 188, com distancia 12.00
+Vertice 387 conectado com vertice 297, com distancia 4.00
+Vertice 388 conectado com vertice 92, com distancia 11.00
+Vertice 389 conectado com vertice 297, com distancia 13.00
+Vertice 390 conectado com vertice 297, com distancia 7.00
+Vertice 391 conectado com vertice 172, com distancia 6.00
+Vertice 392 conectado com vertice 38, com distancia 11.00
+Vertice 393 conectado com vertice 172, com distancia 13.00
+Vertice 394 conectado com vertice 78, com distancia 10.00
+Vertice 395 conectado com vertice 238, com distancia 3.00
+Vertice 396 conectado com vertice 23, com distancia 5.00
+Vertice 397 conectado com vertice 161, com distancia 8.00
+Vertice 398 conectado com vertice 357, com distancia 15.00
+Vertice 399 conectado com vertice 92, com distancia 11.00
+Vertice 400 conectado com vertice 35, com distancia 10.00
+Vertice 401 conectado com vertice 367, com distancia 15.00
+Vertice 402 conectado com vertice 371, com distancia 9.00
+Vertice 403 conectado com vertice 29, com distancia 12.00
+Vertice 404 conectado com vertice 262, com distancia 3.00
+Vertice 405 conectado com vertice 18, com distancia 12.00
+Vertice 406 conectado com vertice 172, com distancia 9.00
+Vertice 407 conectado com vertice 161, com distancia 8.00
+Vertice 408 conectado com vertice 280, com distancia 6.00
+Vertice 409 conectado com vertice 199, com distancia 11.00
+Vertice 410 conectado com vertice 198, com distancia 13.00
+Vertice 411 conectado com vertice 363, com distancia 8.00
+Vertice 412 conectado com vertice 408, com distancia 7.00
+Vertice 413 conectado com vertice 357, com distancia 20.00
+Vertice 414 conectado com vertice 441, com distancia 4.00
+Vertice 415 conectado com vertice 297, com distancia 9.00
+Vertice 416 conectado com vertice 415, com distancia 10.00
+Vertice 417 conectado com vertice 231, com distancia 13.00
+Vertice 418 conectado com vertice 367, com distancia 11.00
+Vertice 419 conectado com vertice 241, com distancia 8.00
+Vertice 420 conectado com vertice 47, com distancia 1.00
+Vertice 421 conectado com vertice 322, com distancia 7.00
+Vertice 422 conectado com vertice 190, com distancia 12.00
+Vertice 423 conectado com vertice 43, com distancia 12.00
+Vertice 424 conectado com vertice 357, com distancia 14.00
+Vertice 425 conectado com vertice 146, com distancia 15.00
+Vertice 426 conectado com vertice 369, com distancia 16.00
+Vertice 427 conectado com vertice 248, com distancia 9.00
+Vertice 428 conectado com vertice 199, com distancia 3.00
+Vertice 429 conectado com vertice 273, com distancia 14.00
+Vertice 430 conectado com vertice 359, com distancia 17.00
+Vertice 431 conectado com vertice 160, com distancia 20.00
+Vertice 432 conectado com vertice 238, com distancia 7.00
+Vertice 433 conectado com vertice 172, com distancia 8.00
+Vertice 434 conectado com vertice 417, com distancia 6.00
+Vertice 435 conectado com vertice 105, com distancia 17.00
+Vertice 436 conectado com vertice 21, com distancia 13.00
+Vertice 437 conectado com vertice 188, com distancia 3.00
+Vertice 438 conectado com vertice 105, com distancia 8.00
+Vertice 439 conectado com vertice 297, com distancia 7.00
+Vertice 440 conectado com vertice 369, com distancia 7.00
+Vertice 441 conectado com vertice 408, com distancia 11.00
+Vertice 442 conectado com vertice 78, com distancia 26.00
+Vertice 443 conectado com vertice 105, com distancia 12.00
+Vertice 444 conectado com vertice 21, com distancia 12.00
+Vertice 445 conectado com vertice 18, com distancia 4.00
+Vertice 446 conectado com vertice 297, com distancia 8.00
+Vertice 447 conectado com vertice 43, com distancia 8.00
+Vertice 448 conectado com vertice 112, com distancia 13.00
+Vertice 449 conectado com vertice 92, com distancia 5.00
+
+Valores individuais de cada distancia minima somada:
+8.00
+12.00
+4.00
+9.00
+17.00
+9.00
+5.00
+7.00
+13.00
+12.00
+8.00
+13.00
+8.00
+7.00
+9.00
+10.00
+10.00
+9.00
+9.00
+10.00
+9.00
+6.00
+8.00
+5.00
+10.00
+9.00
+9.00
+10.00
+12.00
+6.00
+9.00
+7.00
+15.00
+13.00
+14.00
+3.00
+10.00
+10.00
+2.00
+12.00
+18.00
+3.00
+4.00
+6.00
+9.00
+9.00
+7.00
+19.00
+20.00
+13.00
+10.00
+9.00
+8.00
+12.00
+1.00
+17.00
+6.00
+3.00
+14.00
+10.00
+3.00
+10.00
+15.00
+7.00
+17.00
+9.00
+12.00
+10.00
+9.00
+5.00
+14.00
+11.00
+7.00
+2.00
+8.00
+9.00
+14.00
+9.00
+13.00
+8.00
+8.00
+2.00
+2.00
+12.00
+6.00
+4.00
+8.00
+15.00
+16.00
+13.00
+17.00
+12.00
+8.00
+11.00
+16.00
+8.00
+10.00
+11.00
+3.00
+7.00
+10.00
+6.00
+3.00
+14.00
+8.00
+5.00
+9.00
+14.00
+12.00
+9.00
+17.00
+15.00
+11.00
+10.00
+6.00
+14.00
+10.00
+8.00
+4.00
+8.00
+9.00
+20.00
+5.00
+8.00
+12.00
+24.00
+18.00
+16.00
+2.00
+6.00
+11.00
+9.00
+8.00
+9.00
+11.00
+11.00
+8.00
+9.00
+9.00
+10.00
+4.00
+4.00
+6.00
+18.00
+6.00
+2.00
+14.00
+13.00
+10.00
+16.00
+12.00
+7.00
+13.00
+18.00
+12.00
+6.00
+6.00
+8.00
+12.00
+9.00
+10.00
+9.00
+12.00
+17.00
+1.00
+10.00
+11.00
+16.00
+9.00
+10.00
+10.00
+8.00
+7.00
+11.00
+12.00
+10.00
+6.00
+9.00
+11.00
+15.00
+16.00
+6.00
+14.00
+4.00
+18.00
+10.00
+9.00
+8.00
+7.00
+1.00
+13.00
+13.00
+7.00
+7.00
+8.00
+12.00
+16.00
+10.00
+7.00
+2.00
+7.00
+7.00
+13.00
+7.00
+9.00
+8.00
+9.00
+11.00
+17.00
+5.00
+16.00
+9.00
+13.00
+7.00
+6.00
+9.00
+10.00
+8.00
+7.00
+11.00
+19.00
+12.00
+1.00
+10.00
+7.00
+7.00
+17.00
+1.00
+11.00
+8.00
+8.00
+9.00
+5.00
+11.00
+17.00
+12.00
+1.00
+12.00
+33.00
+10.00
+4.00
+3.00
+10.00
+8.00
+29.00
+4.00
+14.00
+4.00
+1.00
+7.00
+6.00
+5.00
+9.00
+9.00
+6.00
+8.00
+10.00
+10.00
+14.00
+2.00
+10.00
+9.00
+11.00
+6.00
+14.00
+11.00
+2.00
+15.00
+8.00
+8.00
+10.00
+21.00
+13.00
+9.00
+12.00
+10.00
+8.00
+7.00
+5.00
+17.00
+10.00
+4.00
+6.00
+4.00
+8.00
+8.00
+9.00
+5.00
+13.00
+6.00
+20.00
+8.00
+2.00
+10.00
+8.00
+18.00
+5.00
+7.00
+9.00
+5.00
+8.00
+14.00
+5.00
+12.00
+17.00
+6.00
+11.00
+9.00
+13.00
+11.00
+3.00
+7.00
+12.00
+10.00
+9.00
+22.00
+16.00
+11.00
+11.00
+18.00
+15.00
+1.00
+14.00
+9.00
+13.00
+8.00
+5.00
+7.00
+8.00
+12.00
+11.00
+8.00
+14.00
+13.00
+8.00
+11.00
+5.00
+8.00
+5.00
+10.00
+11.00
+10.00
+9.00
+13.00
+18.00
+9.00
+15.00
+5.00
+13.00
+9.00
+9.00
+7.00
+7.00
+18.00
+7.00
+14.00
+9.00
+8.00
+14.00
+7.00
+7.00
+9.00
+19.00
+10.00
+12.00
+10.00
+6.00
+13.00
+16.00
+8.00
+15.00
+7.00
+15.00
+9.00
+7.00
+4.00
+7.00
+19.00
+9.00
+9.00
+11.00
+7.00
+24.00
+6.00
+5.00
+13.00
+12.00
+4.00
+11.00
+13.00
+7.00
+6.00
+11.00
+13.00
+10.00
+3.00
+5.00
+8.00
+15.00
+11.00
+10.00
+15.00
+9.00
+12.00
+3.00
+12.00
+9.00
+8.00
+6.00
+11.00
+13.00
+8.00
+7.00
+20.00
+4.00
+9.00
+10.00
+13.00
+11.00
+8.00
+1.00
+7.00
+12.00
+12.00
+14.00
+15.00
+16.00
+9.00
+3.00
+14.00
+17.00
+20.00
+7.00
+8.00
+6.00
+17.00
+13.00
+3.00
+8.00
+7.00
+7.00
+11.00
+26.00
+12.00
+12.00
+4.00
+8.00
+8.00
+13.00
+5.00
+
+Vertices do conjunto L que foram selecionados:
+293
+90
+99
+188
+369
+111
+297
+441
+198
+23
+282
+293
+43
+404
+168
+316
+369
+62
+92
+86
+238
+316
+293
+78
+161
+23
+109
+265
+369
+198
+161
+367
+49
+171
+99
+22
+97
+231
+415
+53
+22
+172
+143
+198
+417
+248
+404
+172
+104
+262
+53
+293
+174
+404
+230
+171
+49
+265
+380
+53
+408
+63
+47
+198
+23
+357
+53
+249
+388
+291
+297
+231
+359
+385
+143
+373
+104
+62
+199
+105
+376
+369
+109
+248
+280
+376
+265
+199
+109
+417
+163
+293
+388
+231
+230
+293
+188
+334
+224
+62
+307
+224
+53
+230
+265
+230
+230
+273
+63
+372
+53
+224
+372
+90
+297
+174
+45
+105
+282
+273
+53
+18
+297
+48
+78
+198
+23
+279
+174
+198
+171
+357
+18
+143
+35
+119
+248
+35
+376
+282
+241
+23
+408
+297
+174
+158
+18
+280
+231
+22
+372
+172
+172
+293
+176
+404
+293
+230
+105
+230
+48
+48
+35
+441
+198
+23
+257
+105
+171
+297
+372
+357
+224
+334
+282
+388
+86
+376
+230
+248
+367
+265
+172
+198
+172
+238
+415
+238
+160
+279
+29
+76
+280
+90
+363
+172
+282
+112
+404
+441
+369
+273
+35
+78
+385
+408
+199
+415
+174
+119
+109
+297
+231
+396
+316
+279
+167
+109
+376
+433
+357
+282
+297
+316
+171
+112
+99
+257
+90
+63
+105
+172
+404
+198
+265
+334
+172
+63
+293
+171
+257
+230
+369
+171
+99
+198
+307
+90
+415
+367
+363
+174
+161
+230
+29
+198
+273
+322
+415
+297
+415
+376
+248
+104
+53
+334
+297
+417
+171
+140
+190
+199
+29
+262
+231
+172
+158
+231
+97
+29
+388
+109
+199
+118
+172
+109
+29
+199
+303
+303
+45
+118
+415
+334
+198
+334
+172
+230
+35
+373
+198
+97
+12
+21
+231
+417
+115
+298
+441
+248
+161
+29
+273
+357
+356
+273
+363
+140
+255
+241
+282
+23
+334
+44
+109
+43
+273
+231
+282
+417
+257
+441
+43
+53
+238
+369
+222
+369
+47
+119
+265
+241
+224
+231
+297
+404
+53
+415
+282
+322
+190
+417
+376
+388
+303
+45
+316
+190
+78
+105
+105
+199
+29
+408
+111
+38
+372
+265
+174
+63
+293
+293
+198
+251
+417
+388
+44
+367
+105
+48
+231
+357
+44
+303
+372
+297
+188
+297
+92
+297
+297
+172
+38
+172
+78
+238
+23
+161
+357
+92
+35
+367
+371
+29
+262
+18
+172
+161
+280
+199
+198
+363
+408
+357
+441
+297
+415
+231
+367
+241
+47
+322
+190
+43
+357
+146
+369
+248
+199
+273
+359
+160
+238
+172
+417
+105
+21
+188
+105
+297
+369
+408
+78
+105
+21
+18
+297
+43
+112
+92
